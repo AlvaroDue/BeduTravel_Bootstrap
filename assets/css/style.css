@@ -1,0 +1,13 @@
+.jumbotron {
+    color: white;
+    background: linear-gradient(to bottom right, rgba(0, 47, 166,.7), rgba(255, 254, 222,.6)), url(../img/playa.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+  .btn-primary {
+    background-color: indigo;
+    border-color:indigo;
+  }
